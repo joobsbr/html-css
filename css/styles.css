@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+
+body {
+font-family: Space Mono, monospace;
+
+}
+
+
+h1 {
+font-style: italic;
+text-align: center;
+color: 	#708090 /* ESTE VALOR É HEXA DECIMAL */
+
+
+}
+
+li{
+
+text-decoration: underline;
+
+
+}
+
+p {
+
+font-size : 14px
+
+}
+
+
+strong{
+
+    font-size: 14px
+}
+
+
+header {
+
+    background-color: red;
+    width: 960px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+    
+}
+section{
+    background-color: blue;
+    width: 960px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+}
+article{
+
+    background-color: greenyellow;
+    width: 960px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+}
+footer {
+
+    background-color: hotpink;
+    width: 960px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+    
+}
+
